@@ -1,4 +1,4 @@
-public class TestGraphTrigger {
+public class TestGraphTrigger1 {
     /* 
      * Jataka Test: Verifying Graph Ingestion
      * Context: This class handles status updates.
